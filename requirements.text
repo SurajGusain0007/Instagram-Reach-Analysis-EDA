@@ -1,0 +1,7 @@
+pandas
+numpy
+streamlit
+plotly
+word_tokenize
+stopwords
+WordCloud
